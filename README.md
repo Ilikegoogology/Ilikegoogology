@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Ilikegoogology
 - 👀 I’m interested in code
 - 🌱 I’m currently learning code.
-- 💞️ I’m looking to collaborate on GitHub and more websites
-- 📫 To reach me, make a txt file in the repository called"chat" and chat with me!
+- 🔥 My Fandom user is IAmPreEthereal. 
+- 🔢 I like googology.
 
 <!---
 Ilikegoogology/Ilikegoogology is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
