@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ilikegoogology
 - 👀 I’m interested in code
 - 🌱 I’m currently learning code.
-- 🔥 My Fandom user is IAmPreEthereal. 
+- 🔥 Fictional googologist  
 - 🔢 I like googology.
 
 <!---
